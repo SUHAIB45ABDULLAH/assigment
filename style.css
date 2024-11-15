@@ -1,0 +1,47 @@
+
+.ab {
+   background-color: rgb(75, 224, 133);
+}
+.cd {
+    background-color: rgb(221, 76, 100);
+
+}
+.ef {
+   background-color: #da7408;
+}
+.gh {
+    background-color: #165894;
+}
+.hi {
+ background-color: #f8be0b;
+
+}
+.mn {
+   background-color: #c1cd0f;
+}
+.op {
+ background-color: rgb(143, 18, 143);
+
+}
+.jk {
+   background-color: #fc037b ;
+}
+.lm {
+   background-color: #a8de87;
+}
+.rs {
+   background-color:#87b3de ;
+}
+button{
+   background-color: #87b3de;
+   font-size: larger;
+}
+body {
+   align-items: center;
+   justify-content: center;
+
+}
+body  {
+   background-image: url('./image folder/Lovepik_com-400541002-beautiful-natural-environment.jpg');
+   
+}
